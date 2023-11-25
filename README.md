@@ -30,6 +30,10 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 
 <a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="Bootstrap" height ="42px"> </a>
 
+<a href="https://tailwindcss.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/tailwind/tailwind.svg" alt="TailwindCSS" height ="42px"> </a>
+
+<a href="https://astro.build/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/astro/astro.svg" alt="Astro" height="42px"/> </a>
+
 <a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/vue/vue.svg" alt="Vue" height='42px'/> </a>
 
 <a href="https://nodejs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/node/node.svg" alt="Node.js" height ="42px"> </a>

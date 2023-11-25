@@ -57,8 +57,6 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 
 </a>
 
-<br>
-
 ### 🛠️ My Projects:
 
 SOON!⚠️

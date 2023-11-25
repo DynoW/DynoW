@@ -48,8 +48,6 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 [![Dcoker](https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/docker/docker-s.svg)](https://www.docker.com)
 [![Kubernetes](https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/kubernetes/kubernetes-s.svg)](https://kubernetes.io)
 
-<br/>
-
 ### 📊 Github Stats:
 
 <a style="text-decoration: none !important" href='https://github.com/DynoW/github-stats-transparent'>

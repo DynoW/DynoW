@@ -6,7 +6,7 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px"/>
   
 ### 🧐 More About Me:
 

@@ -1,24 +1,17 @@
 ## Hey 👋, I'm Daniel C.
 
 I am a versatilist and easily adapt to different roles (Full Stack Web Developer 🌐, Electronics Engineer 🤖, CTF player 👾 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and use them to craft innovative solutions 🛠️.
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
-- 🤝 &nbsp; I’m looking to collaborate on [cuza.pages.dev](https://github.com/dynow/cuza.pages.dev)
-- 🌱 &nbsp; I’m currently learning embeded systems;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dynow?tab=repositories)
+<img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px"/>
 
-- 📫 &nbsp; Feel free to ping me on [Discord](https://discord.com/users/455608238335983617)
+- 🤝 &nbsp; I’m looking to collaborate on [cuza.pages.dev](https://github.com/dynow/cuza.pages.dev)
 - 📝 &nbsp; Checkout my [resume]() - SOON
 - 📚 &nbsp; When I am free, I go gym or read books about physics/tech
 - 😗 &nbsp; I like silly cats 🐈 ------>
-- 🔭 &nbsp; I’m currently working on **personal portfolio**
 
-<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/455608238335983617)](https://discord.com/users/455608238335983617?)
 
 ### 🔨 Languages and Tools:
 

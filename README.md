@@ -11,7 +11,7 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 - 📚 &nbsp; When I am free, I go gym or read books about physics/tech
 - 😗 &nbsp; I like silly cats 🐈 ------>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/455608238335983617)](https://discord.com/users/455608238335983617?)
+[![Discord Presence](https://lanyard.cnrad.dev/api/455608238335983617)](https://discord.com/users/455608238335983617)
 
 ### 🔨 Languages and Tools:
 

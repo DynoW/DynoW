@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Daniel C.
 
 I am a versatilist and easily adapt to different roles (Full Stack Web Developer 🌐, Electronics Engineer 🤖, CTF player 👾 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and use them to craft innovative solutions 🛠️.
-  
-### 🧐 More About Me:
 
 <img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px"/>
+
+### 🧐 More About Me:
 
 - 🤝 &nbsp; I’m looking to collaborate on [cuza.pages.dev](https://github.com/dynow/cuza.pages.dev)
 - 📝 &nbsp; Checkout my [resume]() - SOON

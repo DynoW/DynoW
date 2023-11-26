@@ -32,7 +32,6 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 [![HTML](https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/html/html-s.svg)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/css/css-s.svg)](https://en.wikipedia.org/wiki/CSS)
 [![Figma](https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/figma/figma-s.svg)](https://www.figma.com)
-[![android](https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/android/android-s.svg)](https://developer.android.com)
 [![bash](https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/bash/bash-s.svg)](https://www.gnu.org/software/bash)
 [![C++](https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/c++/c++-s.svg)](https://www.w3schools.com/cpp/cpp_intro.asp)
 [![C](https://raw.githubusercontent.com/DynoW/github-icons/main/language_and_tools/square/c/c-s.svg)](https://www.w3schools.com/c/c_intro.php)

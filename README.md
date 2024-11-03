@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Daniel C.
 
-I am a versatilist and easily adapt to different roles (Full Stack Web Developer 🌐, Embedded Systems Engineer 🤖, CTF player 👾 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and use them to craft innovative solutions 🛠️.
+I am a versatilist and easily adapt to different roles (Full Stack Web Developer 🌐, Embedded Systems Engineer 🤖 or CTF player 👾) depending on what the project requires. I love exploring new tech stacks 💻 and use them to craft innovative solutions 🛠️.
 
 <img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px"/>
 

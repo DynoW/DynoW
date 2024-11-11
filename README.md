@@ -8,7 +8,7 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 
 - 🤝 &nbsp; I’m looking to collaborate on [cuza.pages.dev](https://github.com/dynow/cuza.pages.dev)
 - 📝 &nbsp; Checkout my [resume]() - SOON
-- 😎 &nbsp; I have a cool [site](https://dyno.is-a.dev)
+- 😎 &nbsp; I have a cool [site](https://dyno.is-a.dev?utm_source=github)
 - 📚 &nbsp; When I am free, I go gym or read books about physics/tech
 - 😗 &nbsp; I like silly cats 🐈 ------>
 

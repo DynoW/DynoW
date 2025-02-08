@@ -16,13 +16,13 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 
 ### 🔨 Languages and Tools:
 
+[![Vue](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/vue/vue-s.svg)](https://vuejs.org)
 [![React](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/react/react-s.svg)](https://react.dev)
+[![Laravel](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/laravel/laravel-s.svg)](https://laravel.com)
 [![Nuxt3](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/nuxt3/nuxt3-s.svg)](https://nuxt.com)
-[![Bootstrap](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/bootstrap/bootstrap-s.svg)](https://getbootstrap.com)
 [![TailwindCSS](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/tailwind/tailwind-s.svg)](https://tailwindcss.com)
 [![Astro](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/astro/astro-w-s.svg)](https://astro.build#gh-dark-mode-only)
 [![Astro](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/astro/astro-s.svg)](https://astro.build#gh-light-mode-only)
-[![Vue](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/vue/vue-s.svg)](https://vuejs.org)
 [![Node.js](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/node/node-s.svg)](https://nodejs.org)
 [![Nginx](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/nginx/nginx-s.svg)](https://www.nginx.com)
 [![Cloudflare](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/cloudflare/cloudflare-s.svg)](https://cloudflare.com)
@@ -44,7 +44,6 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 [![Dcoker](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/docker/docker-s.svg)](https://www.docker.com)
 [![Kubernetes](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/kubernetes/kubernetes-s.svg)](https://kubernetes.io)
 [![Wordpress](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/wordpress/wordpress-s.svg)](https://wordpress.com)
-[![Laravel](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/laravel/laravel-s.svg)](https://laravel.com)
 
 ### 📊 Github Stats:
 

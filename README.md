@@ -44,6 +44,7 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 [![Dcoker](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/docker/docker-s.svg)](https://www.docker.com)
 [![Kubernetes](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/kubernetes/kubernetes-s.svg)](https://kubernetes.io)
 [![Wordpress](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/wordpress/wordpress-s.svg)](https://wordpress.com)
+[![Laravel](https://raw.githubusercontent.com/DynoW/icons/main/language_and_tools/square/laravel/laravel-s.svg)](https://laravel.com)
 
 ### 📊 Github Stats:
 

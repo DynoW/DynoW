@@ -1,15 +1,15 @@
 ## Hey 👋, I'm Daniel C. <img align="right" alt="counter" src="https://komarev.com/ghpvc/?username=dyno&color=blue&abbreviated=true&style=pixel"/>
 
-I am a versatilist and easily adapt to different roles (Full Stack Web Developer 🌐, Embedded Systems Engineer 🤖 or CTF player 👾) depending on what the project requires. I love exploring new tech stacks 💻 and use them to craft innovative solutions 🛠️.
+#### Full Stack Web Dev 🌐 | Automatics & Comp Sci Student 💻 | Tech enthusiast 🤓 <img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px"/>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px"/>
+I love exploring new tech stacks and use them to craft innovative solutions 🛠️.
 
 ### 🧐 More About Me:
 
-- 🤝 &nbsp; I’m looking to collaborate on [cuza.pages.dev](https://github.com/dynow/cuza.pages.dev)
+- ⚙️ &nbsp; I’m currently interested in DevOps and Frontend
 - 📝 &nbsp; Checkout my [resume]() - SOON
-- 😎 &nbsp; I have a cool [site](https://dyno.is-a.dev?utm_source=github)
-- 📚 &nbsp; When I am free, I go gym or read books about physics/tech
+- 😎 &nbsp; Here are my [achievements](https://dyno.is-a.dev?utm_source=github) in the meantime
+- 🍿 &nbsp; When I'm free I build stuff and learn from youtube videos
 - 😗 &nbsp; I like silly cats 🐈 ------>
 
 <a href="https://discord.com/users/455608238335983617"><img alt="GIF" src="https://lanyard.cnrad.dev/api/455608238335983617" width="360px"/></a>

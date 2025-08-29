@@ -2,9 +2,9 @@
 
 #### Full Stack Web Dev 🌐 | Automatics & Comp Sci Student 💻 | Tech enthusiast 🤓
 
-<img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px"/>
-
 I love exploring new tech stacks and use them to craft innovative solutions 🛠️.
+
+<img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px"/>
 
 ### 🧐 More About Me:
 

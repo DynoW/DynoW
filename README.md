@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Daniel C. <img align="right" alt="counter" src="https://komarev.com/ghpvc/?username=dyno&color=blue&abbreviated=true&style=pixel"/>
 
-#### Full Stack Web Dev 🌐 | Automatics & Comp Sci Student 💻 | Tech enthusiast 🤓
+#### Full Stack Web Developer 🌐 | Computer Science & Engineering student @ UPB 💻 | Tech enthusiast 🤓
 
 I love exploring new tech stacks and use them to craft innovative solutions 🛠️.
 

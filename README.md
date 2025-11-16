@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=900&lines=Full+Stack+Developer+%7C+CS+%26+Engineering+student+%7C+Tech+enthusiast;" alt="Typing SVG" />
 </p>
 
-
-
-<!-- I love exploring new tech stacks and use them to craft innovative solutions 🛠️. -->
+I love exploring new tech stacks and use them to craft innovative solutions 🛠️.
 
 <img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px"/>
 

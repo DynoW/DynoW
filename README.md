@@ -1,4 +1,4 @@
-## Hey 👋, I'm Daniel C. <img align="right" alt="counter" src="https://komarev.com/ghpvc/?username=dyno&color=blue&abbreviated=true"/>
+## Hey 👋, I'm Daniel C. <img align="right" alt="counter" src="https://komarev.com/ghpvc/?username=dyno&color=blue"/>
 
 <!-- #### Full Stack Web Developer 🌐 | Computer Science & Engineering student @ACS UPB 💻 | Tech enthusiast 🤓 -->
 

@@ -1,14 +1,14 @@
-## Hey 👋, I'm Daniel C. <img align="right" alt="counter" src="https://komarev.com/ghpvc/?username=dyno&color=blue"/>
+## Hey 👋, I'm Daniel C. <img align="right" alt="counter" src="https://komarev.com/ghpvc/?username=dyno&color=blue"><img align="right" src="https://analytics.my-lab.ro/p/eiBgV9cPA">
 
 <!-- #### Full Stack Web Developer 🌐 | Computer Science & Engineering student @ACS UPB 💻 | Tech enthusiast 🤓 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=900&lines=Full+Stack+Developer+%7C+CS+%26+Engineering+student+%7C+Tech+enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=900&lines=Full+Stack+Developer+%7C+CS+%26+Engineering+student+%7C+Tech+enthusiast;" alt="Typing SVG">
 </p>
 
 <!-- I love exploring new tech stacks and use them to craft innovative solutions 🛠️. -->
 
-<img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/jb56fVPgnpkAAAAC/busy-cats.gif" width="360px">
 
 ### 🧐 More About Me:
 
@@ -18,7 +18,7 @@
 - 🍿 &nbsp; When I'm free I build stuff and learn from youtube videos
 - 😗 &nbsp; I like silly cats 🐈 ------>
 
-<a href="https://discord.com/users/455608238335983617"><img alt="GIF" src="https://lanyard.cnrad.dev/api/455608238335983617" width="360px"/></a>
+<a href="https://discord.com/users/455608238335983617"><img alt="GIF" src="https://lanyard.cnrad.dev/api/455608238335983617" width="360px"></a>
 
 ### 🔨 Languages and Tools:
 

@@ -20,7 +20,8 @@
 
 <a href="https://discord.com/users/455608238335983617"><img alt="GIF" src="https://lanyard.cnrad.dev/api/455608238335983617" width="360px"></a>
 
-### 🔨 Languages and Tools:
+<details>
+  <summary><strong>🔨 Languages and Tools:</strong></summary>
 
 [![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
@@ -56,8 +57,9 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](https://wordpress.com)
+</details>
 
-
+<!--
 ### 📊 Github Stats:
 
 <a style="text-decoration: none !important" href='https://github.com/DynoW/github-stats-transparent'>
@@ -66,5 +68,6 @@
 ![Most Used Languages](https://raw.githubusercontent.com/DynoW/github-stats-transparent/output/generated/languages.svg)
 
 </a>
+-->
 
 ### 🛠️ My Projects:

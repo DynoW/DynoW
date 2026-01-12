@@ -59,7 +59,6 @@
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](https://wordpress.com)
 </details>
 
-<!--
 ### 📊 Github Stats:
 
 <a style="text-decoration: none !important" href='https://github.com/DynoW/github-stats-transparent'>
@@ -68,6 +67,5 @@
 ![Most Used Languages](https://raw.githubusercontent.com/DynoW/github-stats-transparent/output/generated/languages.svg)
 
 </a>
--->
 
 ### 🛠️ My Projects:

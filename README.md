@@ -12,14 +12,12 @@
 
 ### 🧐 More About Me:
 
-- ⚙️ &nbsp; I’m currently interested in DevOps and Frontend
-- 📝 &nbsp; Checkout my [resume]() - SOON
+- ⚙️ &nbsp; I’m currently interested in DevOps and Frontend <!-- - 📝 &nbsp; Checkout my [resume]() - SOON-->
 - 😎 &nbsp; Here are my [achievements](https://dyno.is-a.dev?utm_source=github) in the meantime
 - 🍿 &nbsp; When I'm free I build stuff and learn from youtube videos
 - 😗 &nbsp; I like silly cats 🐈 ------>
 
-<a href="https://discord.com/users/455608238335983617"><img alt="GIF" src="https://lanyard.cnrad.dev/api/455608238335983617" width="360px"></a>
-
+<!-- <a href="https://discord.com/users/455608238335983617"><img alt="GIF" src="https://lanyard.cnrad.dev/api/455608238335983617" width="360px"></a> -->
 <details>
   <summary><strong>🔨 Languages and Tools:</strong></summary>
 

@@ -21,7 +21,6 @@
 
 <details>
   <summary><strong>🔨 Languages and Tools:</strong></summary>
-  <br>
   
   [![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org)
   [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)

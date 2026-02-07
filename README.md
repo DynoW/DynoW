@@ -8,7 +8,7 @@
 
 <!-- I love exploring new tech stacks and use them to craft innovative solutions 🛠️. -->
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DynoW/DynoW/refs/heads/main/cat.gif" width="400px">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DynoW/DynoW/refs/heads/main/cat.gif" width="360px">
 
 ### 🧐 More About Me:
 

@@ -59,7 +59,7 @@
   [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](https://wordpress.com)
 </details>
 
-<br clear="both">
+<br clear="right">
 
 ### 📊 Github Stats:
 

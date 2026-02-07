@@ -19,7 +19,7 @@
 
 <!-- <a href="https://discord.com/users/455608238335983617"><img alt="GIF" src="https://lanyard.cnrad.dev/api/455608238335983617" width="360px"></a> -->
 
-<details>
+<details open>
   <summary><strong>🔨 Languages and Tools:</strong></summary>
   <br>
   

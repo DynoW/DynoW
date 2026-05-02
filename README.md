@@ -10,7 +10,7 @@
 
 CS & Engineering student just trying to build cool stuff and learn new tech along the way. 
 
-- ⚙️ **Currently into:** Diving deep into **DevOps** and **Frontend**.
+- ⚙️ **Currently into:** Diving deep into **DevOps** and **Fullstack**.
 - 🍿 **Off the clock:** Building random side projects and going down YouTube rabbit holes.
 - 🏆 **My wins:** Check out some of my [achievements](https://dyno.is-a.dev?utm_source=github).
 - 🐈 **Also:** I really like silly cats.

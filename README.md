@@ -12,7 +12,7 @@ CS & Engineering student just trying to build cool stuff and learn new tech alon
 
 - ⚙️ **Currently into:** Diving deep into **DevOps** and **Fullstack**.
 - 🍿 **Off the clock:** Building random side projects and going down YouTube rabbit holes.
-- 🏆 **My wins:** Check out some of my [achievements](https://dyno.is-a.dev?utm_source=github).
+- 🏆 **My wins:** Check out some of my [achievements](https://www.linkedin.com/in/dynow/).
 - 🐈 **Also:** I really like silly cats.
 
 <br clear="right">
@@ -51,6 +51,7 @@ CS & Engineering student just trying to build cool stuff and learn new tech alon
   <br>
 
   [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
+  [![Astro](https://img.shields.io/badge/Astro-FF6209?style=flat&logo=astro&logoColor=white)](https://astro.build)
   [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
   [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com)
   [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com)

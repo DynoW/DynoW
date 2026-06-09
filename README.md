@@ -1,4 +1,4 @@
-# Hey 👋, I'm Daniel C. <img align="right" alt="Analytics" src="https://analytics.my-lab.ro/p/eiBgV9cPA"><img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=dyno&color=blue&style=flat-square">
+# Hey 👋, I'm Daniel C. <img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=dyno&color=blue&style=flat-square">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=900&lines=Full+Stack+Developer+%7C+CS+%26+Engineering+student+%7C+Tech+enthusiast;" alt="Typing SVG">

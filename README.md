@@ -10,7 +10,7 @@
 
 CS & Engineering student just trying to build cool stuff and learn new tech along the way. 
 
-- ⚙️ **Currently into:** Diving deep into **DevOps** and **Fullstack**.
+- ⚙️ **Currently into:** Diving deep into **DevOps**, **Fullstack** and **Cloud Infrastructure**.
 - 🍿 **Off the clock:** Building random side projects and going down YouTube rabbit holes.
 - 🏆 **My wins:** Check out some of my [achievements](https://www.linkedin.com/in/dynow/).
 - 🐈 **Also:** I really like silly cats.
@@ -22,7 +22,7 @@ CS & Engineering student just trying to build cool stuff and learn new tech alon
 ### 🔨 Tech Stack & Tools
 
 <details open>
-  <summary><strong>My Core Focus</strong></summary>
+  <summary><strong>The Stack I like</strong></summary>
   <br>
 
   **Frontend Architecture**<br>
@@ -32,30 +32,28 @@ CS & Engineering student just trying to build cool stuff and learn new tech alon
   [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 
   **DevOps & Cloud**<br>
-  [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
   [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-  [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
   [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://cloudflare.com)
 
   **Backend & Data**<br>
   [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
   [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
   [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com)
-  [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io)
+  [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io)
 </details>
 
 <details>
   <summary><strong>Other Tools I've Worked With</strong></summary>
   <br>
 
-  [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
-  [![Astro](https://img.shields.io/badge/Astro-FF6209?style=flat&logo=astro&logoColor=white)](https://astro.build)
-  [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
-  [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com)
-  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+- Cloud: Cloudflare (Workers, D1, R2, DNS, Access Controls, Tunnels), AWS (EC2, S3, RDS), Microsoft Azure (VNet, NSG, VMs)
+- DevOps: Docker, Kubernetes, Terraform, Ansible, CI/CD (GitHub Actions), Bash, Linux Servers, Cisco Networking (Routers/Switches)
+- Backend & Data: Node.js, Python, PostgreSQL, Redis, Prisma, Supabase, GraphQL, REST APIs, Microservices
+- Frontend Architecture: Vue, Astro, TypeScript, React, Tailwind CSS, GSAP
+- Tools: Git, Local AI deployments (Ollama, ComfyUI, n8n), Sentry, Prometheus, Grafana, Postman, Figma, WordPress, Jira
+- Frameworks: Nuxt, Laravel, Wails3
 </details>
 
 ---

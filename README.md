@@ -1,7 +1,7 @@
 # Hey 👋, I'm Daniel C. <img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=dyno&color=blue&style=flat-square">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=900&lines=Full+Stack+Developer+%7C+CS+%26+Engineering+student+%7C+Tech+enthusiast;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=900&lines=Tech+enthusiast+%7C+CS+%26+Engineering+student+@ACS-CTI;" alt="Typing SVG">
 </p>
 
 ### 👨‍💻 About Me
@@ -49,10 +49,10 @@ CS & Engineering student just trying to build cool stuff and learn new tech alon
   <br>
 
 - Cloud: Cloudflare (Workers, D1, R2, DNS, Access Controls, Tunnels), AWS (EC2, S3, RDS), Microsoft Azure (VNet, NSG, VMs)
-- DevOps: Docker, Kubernetes, Terraform, Ansible, CI/CD (GitHub Actions), Bash, Linux Servers, Cisco Networking (Routers/Switches)
+- DevOps & Infra: Docker, Kubernetes, Terraform, Ansible, CI/CD (GitHub Actions), Linux, Cisco Networking
 - Backend & Data: Node.js, Python, PostgreSQL, Redis, Prisma, Supabase, GraphQL, REST APIs, Microservices
 - Frontend Architecture: Vue, Astro, TypeScript, React, Tailwind CSS, GSAP
-- Tools: Git, Local AI deployments (Ollama, ComfyUI, n8n), Sentry, Prometheus, Grafana, Postman, Figma, WordPress, Jira
+- Monitoring & Tools: Prometheus, Grafana, Loki, Sentry, n8n, Jira, Figma, Local AI (Ollama, ComfyUI
 - Frameworks: Nuxt, Laravel, Wails3
 </details>
 

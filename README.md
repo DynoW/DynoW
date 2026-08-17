@@ -61,8 +61,8 @@ CS & Engineering student just trying to build cool stuff and learn new tech alon
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DynoW/github-stats-transparent-old/output/generated/overview.svg" alt="Stats Overview" width="48%">
-  <img src="https://raw.githubusercontent.com/DynoW/github-stats-transparent-old/output/generated/languages.svg" alt="Most Used Languages" width="48%">
+  <img src="https://raw.githubusercontent.com/DynoW/github-stats-transparent/generated/overview.svg" alt="Stats Overview" width="48%">
+  <img src="https://raw.githubusercontent.com/DynoW/github-stats-transparent/generated/languages.svg" alt="Most Used Languages" width="48%">
 </div>
 
 ---

@@ -8,7 +8,7 @@ CS & Engineering student at UPB building scalable backend systems, cloud infrast
 
 ### 🔨 Tech Stack & Tools
 
-<details open>
+<details>
   <summary><strong>Core Stack</strong></summary>
   <br>
 
